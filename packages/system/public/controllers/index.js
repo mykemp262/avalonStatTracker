@@ -129,7 +129,7 @@ angular.module('mean.system').controller('IndexController', ['$scope', 'Global',
     }
 
     $scope.ladyOfTheLake = false;
-    $scope.playerCount = "10";
+    $scope.playerCount = "6";
     $scope.numberOfQuestions = "5";
     $scope.victoryCondition = "5 rejects";
     $scope.questsCompleted = "5";
